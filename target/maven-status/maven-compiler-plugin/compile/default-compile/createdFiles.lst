@@ -1,3 +1,6 @@
+br\edu\fema\repository\UsuarioRepository.class
 br\edu\fema\FemaApplication.class
 org\yourcompany\yourproject\ProjectName.class
 br\edu\fema\model\Usuario.class
+br\edu\fema\controller\UsuariosController.class
+br\edu\fema\controller\dto\UsuarioDto.class
